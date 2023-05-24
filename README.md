@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ShaYn541
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++ and Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 Instagram : @shayn.singhaa
+-  Hi, I’m Shayan Singha
+-  I’m interested in development
+-  I’m currently learning C++ and Python.
+
+
+
 
 <!---
 ShaYn541/ShaYn541 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
