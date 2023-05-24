@@ -1,6 +1,6 @@
 -  Hi, I’m Shayan Singha
 -  I’m interested in development
--  I’m currently learning C++ and Python.
+-  Proficient in C++ and Python
 
 
 
